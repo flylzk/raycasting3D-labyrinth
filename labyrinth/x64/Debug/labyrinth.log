@@ -1,0 +1,27 @@
+﻿  labyrinth.cpp
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(181,30): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(194,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(196,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(208,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(216,24): warning C4244: “初始化”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(232,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(240,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(240,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(240,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(240,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(243,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(243,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(244,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(244,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(252,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(253,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(283,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(284,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(301,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(302,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(315,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(346,25): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(497,43): warning C4244: “=”: 从“ULONGLONG”转换到“unsigned long”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(600,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\作业留档\3Dlabyrinth\labyrinth\labyrinth\labyrinth.cpp(600,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  labyrinth.vcxproj -> C:\作业留档\3Dlabyrinth\labyrinth\x64\Debug\labyrinth.exe
